@@ -6,7 +6,7 @@ This is my first NPM package - random de mensajes
 ## Install
 
 ```npm
-npm install -g random-msg
+npm i random-mess
 ```
 
 # Usage
